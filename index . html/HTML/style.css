@@ -1,0 +1,19 @@
+body
+{
+    background-image: url(https://i.pinimg.com/736x/85/9d/3c/859d3cb7fc88962638b112a60a60fa26--smart-tv-netflix-movies.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#box
+{
+    background-color:#000;
+    opacity: .9;
+    color: #ffff;
+    margin-top: 10%;
+    margin-left: 40%;
+    width: 20%;
+    height: 40% ;
+    padding: 20px;
+    font-size: 101%;
+}
